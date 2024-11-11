@@ -1,6 +1,6 @@
 # Skulnet
 
-**Skulnet é uma plataforma de gestão escolar e ensino a distância para estudantes, encarregados e administradores, focada no contexto educacional angolano.**
+**Skulnet é uma plataforma de gestão escolar e ensino a distância para estudantes, encarregados e administradores, focada no contexto educacional.**
 
 ## Sobre Nós
 
