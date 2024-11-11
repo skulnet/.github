@@ -13,7 +13,7 @@ Com uma abordagem focada na eficiência e simplicidade, a Skulnet ajuda a otimiz
 
 Para mais informações, visite o nosso [site](https://skulnet.com) ou entre em contacto através dos seguintes meios:
 
-- **Email**: hello@skulnet.org
+- **Email**: hello@skulnet.com
 - **Telefone**: +244 901 234 567
 - **Endereço**: Rua Mingo da Costa, 25, Viana, Luanda AOA, AO
 
