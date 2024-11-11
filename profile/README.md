@@ -11,7 +11,7 @@ Com uma abordagem focada na eficiência e simplicidade, a Skulnet ajuda a otimiz
 
 ## Contacte-nos
 
-Para mais informações, visite o nosso [site](https://skulnet.org) ou entre em contacto através dos seguintes meios:
+Para mais informações, visite o nosso [site](https://skulnet.com) ou entre em contacto através dos seguintes meios:
 
 - **Email**: hello@skulnet.org
 - **Telefone**: +244 901 234 567
